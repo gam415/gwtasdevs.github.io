@@ -22,8 +22,8 @@ If you enable automatic updates for toolbox, then you should recieve automatic, 
 - Useful TAS plugins are provided:
   * `SST`: allows writing in-game scripts
   * `RawDialogs`: adds a command `/rawdialog <dialog_id>` that will send the raw dialog packet, allowing to send dialogs when the NPC is in combat.
+  * `DialogsWindow`: adds a window with buttons for sending commonly used dialogs, e.g. underworld quests
 
 
 ## Advanced
-The code to modify `gwca.dll` and allow minipet targeting can be found [here](https://github.com/gwtasdevs/GWCA)
-
+The code to modify `gwca.dll` and allow minipet targeting can be found [here](https://github.com/gwtasdevs/gwca-patcher)
