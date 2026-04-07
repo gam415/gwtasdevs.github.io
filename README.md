@@ -16,6 +16,7 @@ If you enable automatic updates for toolbox, then you should recieve automatic, 
 
 ## Features
 - Minipets can be targeted
+- Duping window updated to track aggro groups separately (useful for double duping)
 - Toolbox can be used in guild halls
 - Blocklists for `/useskill` are removed
 - Multiple `/useskill` is supported
