@@ -23,9 +23,18 @@ If you enable automatic updates for toolbox, then you should recieve automatic, 
 - Multiple `/useskill` is supported
 - Allow using chat commands when guild wars is not the focussed window
 - Useful TAS plugins are provided:
-  * `SST`: allows writing in-game scripts
-  * `RawDialogs`: adds a command `/rawdialog <dialog_id>` that will send the raw dialog packet, allowing to send dialogs when the NPC is in combat.
+  * `AgentPopTimer`: displays the cooldown to spawn another agent (i.e. spawn your minipet or pop a ghost-in-the-box)
+  * `DeathPenaltyTimer`: displays a timer showing the window of time after being revived where dying will not cause your death penalty to increase
+  * `DhuumCalculator`: adds a window showing projections of how long Dhuum will take to die vs complete Dhuum's rest
   * `DialogsWindow`: adds a window with buttons for sending commonly used dialogs, e.g. underworld quests
+  * `Follow`: adds a chat command `/follow` which makes you follow whoever is targeted
+  * `GWSplits`: uses the `SpeedrunScriptingTools` system to define splits for tracking time during runs
+  * `PitsSoulsWindow`: shows respawn timers for souls relevant for the pits qust in UW
+  * `ProjectileIndicator`: displays the areas on the floor where enemy projectiles will hit you
+  * `RawDialogs`: adds a command `/rawdialog <dialog_id>` that will send the raw dialog packet, allowing to send dialogs when the NPC is in combat.
+  * `ShadowstepPredictor`: adds an overlay on the skillbar showing whether a given sahdowstep will succeed
+  * `Slowload`: allows setting a hotkey to delay loading an isntance until it is pressed
+  * `SpeedrunScriptingTools`: allows writing in-game scripts
 
 
 ## Advanced
