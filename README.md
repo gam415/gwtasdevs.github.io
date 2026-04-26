@@ -36,6 +36,8 @@ If you enable automatic updates for toolbox, then you should recieve automatic, 
   * `Slowload`: allows setting a hotkey to delay loading an isntance until it is pressed
   * `SpeedrunScriptingTools`: allows writing in-game scripts
 
+## Addiitonal plugins
+More useful plugins for speedruns can be found [here](https://github.com/gam415/GWToolboxPlugins)
 
 ## Advanced
 The code to modify `gwca.dll` and allow minipet targeting can be found [here](https://github.com/gwtasdevs/gwca-patcher)
