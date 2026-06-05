@@ -24,6 +24,7 @@ If you enable automatic updates for Toolbox, then you should recieve automatic, 
 - Allow using chat commands when guild wars is not the focussed window
 - Useful TAS plugins are provided:
   * `AgentPopTimer`: displays the cooldown to spawn another agent (i.e. spawn your minipet or pop a ghost-in-the-box)
+  * `ChestOpener`: adds a chat command `/openchest` that will open the currently targeted locked chest from a distance
   * `DeathPenaltyTimer`: displays a timer showing the window of time after being revived where dying will not cause your death penalty to increase
   * `DhuumCalculator`: adds a window showing projections of how long Dhuum will take to die vs complete Dhuum's rest
   * `DialogsWindow`: adds a window with buttons for sending commonly used dialogs, e.g. underworld quests & teles
