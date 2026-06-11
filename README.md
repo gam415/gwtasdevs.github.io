@@ -30,10 +30,10 @@ If you enable automatic updates for Toolbox, then you should recieve automatic, 
   * `DialogsWindow`: adds a window with buttons for sending commonly used dialogs, e.g. underworld quests & teles
   * `Follow`: adds a chat command `/follow` which makes you follow whoever is targeted
   * `GWSplits`: uses the `SpeedrunScriptingTools` system to define splits for tracking time during runs
-  * `PitsSoulsWindow`: shows respawn timers for souls relevant for the pits qust in UW
+  * `PitsSoulsWindow`: shows respawn timers for souls relevant for the pits quest in UW
   * `ProjectileIndicator`: displays the areas on the floor where enemy projectiles will hit you
   * `RawDialogs`: adds a command `/rawdialog <dialog_id>` that will send the raw dialog packet, allowing to send dialogs when the NPC is in combat.
-  * `ShadowstepPredictor`: adds an overlay on the skillbar showing whether a given sahdowstep will succeed
+  * `ShadowstepPredictor`: adds an overlay on the skillbar showing whether a given shadowstep will succeed
   * `Slowload`: allows setting a hotkey to delay loading an instance until it is pressed
   * `SpeedrunScriptingTools`: allows writing in-game scripts
 
