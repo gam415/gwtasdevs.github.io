@@ -40,5 +40,8 @@ If you enable automatic updates for Toolbox, then you should recieve automatic, 
 ## Additonal Plugins
 More useful plugins for speedruns can be found [here](https://github.com/gam415/GWToolboxPlugins).
 
+## Discord
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/TgFVykHZxD?style=flat)](https://discord.gg/TgFVykHZxD)
+
 ## Advanced
 The code to modify `gwca.dll` and allow minipet targeting can be found [here](https://github.com/gwtasdevs/gwca-patcher).
