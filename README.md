@@ -27,7 +27,7 @@ If you enable automatic updates for Toolbox, then you should recieve automatic, 
   * `ChestOpener`: adds a chat command `/openchest` that will open the currently targeted locked chest from a distance
   * `DeathPenaltyTimer`: displays a timer showing the window of time after being revived where dying will not cause your death penalty to increase
   * `DhuumCalculator`: adds a window showing projections of how long Dhuum will take to die vs complete Dhuum's rest
-  * `DialogsWindow`: adds a window with buttons for sending commonly used dialogs, e.g. underworld quests & teles
+  * `DialogsWindow`: adds a window with buttons for sending commonly used dialogs, e.g. underworld quests & teles. The "Send dialogs in combat" setting must be turned on to send raw dialog packets, e.g. to allow sending when an NPC is in combat.
   * `Follow`: adds a chat command `/follow` which makes you follow whoever is targeted
   * `GWSplits`: uses the `SpeedrunScriptingTools` system to define splits for tracking time during runs
   * `PitsSoulsWindow`: shows respawn timers for souls relevant for the pits quest in UW
